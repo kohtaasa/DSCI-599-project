@@ -16,3 +16,8 @@ Video Teleconferencing" for DSCI559: Machine Learning for a Secure Internet.
    - `bayesian_networks.ipynb`: 2nd part of the analysis where we build a Bayesian Network to infer the client interaction from the network traffic.
 4. `pcap_to_csv.py`: This script converts the pcap files to csv files.
 5. `preprocessing.py`: This script preprocesses the csv files for Bayesian networks.
+
+## Dataset
+As some of the datasets used in the project are large, they are not included in the repository. 
+The datasets can be downloaded from the following link:
+- [Google Drive](https://drive.google.com/drive/folders/1LIxrSMvAa7thXScoUslBI4OU0yJt2FfW?usp=sharing)
